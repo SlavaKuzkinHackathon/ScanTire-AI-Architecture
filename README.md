@@ -1,11 +1,27 @@
+<!-- Open Graph Meta Tags for Social Sharing -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Scan Tire AI - Computer Vision for Tire Inspection">
+<meta property="og:description" content="Deep Learning architecture for automated tire qualimetry. YOLOX detection, ResNet18 wear classification, ONNX web inference.">
+<meta property="og:url" content="https://scantire.com">
+<meta property="og:image" content="https://scantire.com/og-image.jpg">
+<meta property="og:site_name" content="Scan Tire AI">
 
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Scan Tire AI - Automated Tire Inspection">
+<meta name="twitter:description" content="AI-powered tire qualimetry using Computer Vision. Open architecture overview.">
+<meta name="twitter:image" content="https://scantire.com/og-image.jpg">
+
+<!-- GitHub Specific -->
+<meta name="keywords" content="computer vision, tire inspection, deep learning, YOLOX, ResNet, ONNX, automotive AI, tire qualimetry, TWI detection, PyTorch">
+<meta name="author" content="Slava Kuzkin">
 # ScanTire AI: Advanced Computer Vision & Deep Learning Architecture for Tire Qualimetry
 
-[![Website](https://img.shields.io/badge/Website-ScanTire.com-blue?style=for-the-badge)](http://scantire.com)
+[![Website](https://img.shields.io/badge/Website-ScanTire.com-blue?style=for-the-badge)](https://scantire.com)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++_|_PyTorch_|_ONNX_|_Next.js-2ea44f?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 
-> **Executive Note:** This repository serves as a technical whitepaper and architecture overview for the commercial **[ScanTire.com](http://scantire.com)** engine. As this is a proprietary B2B SaaS product, the core source code and datasets remain closed. However, we publish our architectural approach, mathematical pipeline, and ML research here to contribute to the global Computer Vision community and demonstrate our technical capabilities to potential partners.
+> **Executive Note:** This repository serves as a technical whitepaper and architecture overview for the commercial **[ScanTire.com](https://scantire.com)** engine. As this is a proprietary B2B SaaS product, the core source code and datasets remain closed. However, we publish our architectural approach, mathematical pipeline, and ML research here to contribute to the global Computer Vision community and demonstrate our technical capabilities to potential partners.
 
 ## 🔬 1. Abstract & Objective
 
