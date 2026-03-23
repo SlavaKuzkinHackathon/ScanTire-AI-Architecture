@@ -22,7 +22,7 @@
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++_|_PyTorch_|_ONNX_|_Next.js-2ea44f?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 
-> **Executive Note:** This repository serves as a technical whitepaper and architecture overview for the commercial **[ScanTire.com](https://scantire.com)** engine. As this is a proprietary B2B SaaS product, the core source code and datasets remain closed. However, we publish our architectural approach, mathematical pipeline, and ML research here to contribute to the global Computer Vision community and demonstrate our technical capabilities to potential partners.
+> **Note:** This repository documents the architecture and research behind **[Scan Tire AI](https://scantire.com)** — an automated tire inspection system using Computer Vision. Source code is not included; this is a technical whitepaper for the CV/ML community.
 
 ## 🔬 1. Abstract & Objective
 
@@ -185,13 +185,13 @@ async function processTireImage(imageBuffer: Float32Array, width: number, height
 
 ---
 
-## 💼 B2B API & Commercial Integration
+## 🤝 Partnership & API Access
 
-Are you building an Automotive E-commerce platform, a Trade-in inspection software, or a Warehouse cataloging system?
+Working on Automotive Tech, Trade-in platforms, or Warehouse automation?
 
-Stop forcing your users to manually type long tire specifications. Let them simply snap a photo.
+We're looking for early partners to integrate Scan Tire AI into real-world products.
 
-👉 **[Visit ScanTire.com](http://scantire.com) to request early API access, view demos, or discuss enterprise integration.**
+👉 **[Visit scantire.com](https://scantire.com) — request API access or contact us for collaboration.**
 
 ---
-*© 2026 ScanTire AI. All rights reserved. Architecture, codebase, and datasets are proprietary.*
+*© 2026 Scan Tire AI. All rights reserved. Architecture, codebase, and datasets are proprietary.*
