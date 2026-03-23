@@ -1,3 +1,4 @@
+
 <!-- Open Graph Meta Tags for Social Sharing -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Scan Tire AI - Computer Vision for Tire Inspection">
@@ -15,7 +16,7 @@
 <!-- GitHub Specific -->
 <meta name="keywords" content="computer vision, tire inspection, deep learning, YOLOX, ResNet, ONNX, automotive AI, tire qualimetry, TWI detection, PyTorch">
 <meta name="author" content="Slava Kuzkin">
-# ScanTire AI: Advanced Computer Vision & Deep Learning Architecture for Tire Qualimetry
+
 
 [![Website](https://img.shields.io/badge/Website-ScanTire.com-blue?style=for-the-badge)](https://scantire.com)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++_|_PyTorch_|_ONNX_|_Next.js-2ea44f?style=for-the-badge)](#)
